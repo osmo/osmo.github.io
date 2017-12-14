@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Great First Post
+title: Atom and Cisco
 ---
 
 GitHub user DiogoAndre created a most useful package to provide syntax highlight for cisco configurations.
