@@ -10,3 +10,8 @@ github_username:  osmo
 markdown: kramdown
 theme: jekyll-theme-cayman
 google_analytics: UA-111281484-1
+
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
