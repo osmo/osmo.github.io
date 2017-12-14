@@ -8,10 +8,7 @@ github_username:  osmo
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: minima
 google_analytics: UA-111281484-1
 
-pages_list:       
-  About: '/about'
-  Archive: '/archive'
-  Feed: '/atom.xml'
+
