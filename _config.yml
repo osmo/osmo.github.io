@@ -8,5 +8,5 @@ github_username:  osmo
 
 # Build settings
 markdown: kramdown
-theme: midnight
+theme: codeinventory
 google_analytics: UA-111281484-1
