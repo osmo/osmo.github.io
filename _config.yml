@@ -1,8 +1,3 @@
-Create a _config.yml file to setup your Jekyll project (check the example config for all the options):
-Click the Create new file button on the repository page.
-Name the file _config.yml.
-Add the basic YAML fields required by Jekyll:
-
 # basic options
 title: hack.mod.code.build
 author: Osmo
