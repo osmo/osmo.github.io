@@ -1,7 +1,4 @@
-## GitHub Site
+## osmo.github.io
 
-I finally got around to setting up a Github Pages site. The ability to write posts in markdown and have Jekyll render it into html is beyond easy. You can just type something up in the terminal and post it if you like. Github has become indispendsible to my tinkering with Python. I've also become a huge fan of Atom after moving over to it from gvim/macvim. In short, it was about time. 
-
-Thanks Evan Will for the tutorial! 
-https://evanwill.github.io/go-go-ghpages/
+This is my place to toss in tibits I've picked up that might be useful to the wider world. I owe a lot to internet folks. Great people have created posts in blogs, forums, or IRC, that have either helped toward solving difficult issues, or made me better at what I love. This is my attempt give a little back. 
 
