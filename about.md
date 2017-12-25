@@ -3,13 +3,13 @@ layout: page
 title: About
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
+This site is a repository for items that might be useful to others in the field of packet newtorking. The idea is to leave them here to be picked up by Google's spiders and one day appear in a search to provide a little help to someone who needes it.
 
-Reasons:
-- its great.
-- its a test.
+Focus Areas
+- Cisco
+- Brocade
+- Accedian
+- Python
 
-## Other thoughts
+Feel free to visit my repositories at https://github.com/osmo, although most items will be repos for a while.
 
-This is great.
